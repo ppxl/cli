@@ -1,5 +1,5 @@
 Loads a tarred repository from a file or the standard input stream.
-Restores both images and tags. Write image names or IDs imported it
+Restores both images and tags. Write image names or IDs it imported to
 standard output stream.
 
 # EXAMPLES
